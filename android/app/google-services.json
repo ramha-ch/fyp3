@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "193360515095",
+    "project_id": "project-chashmart",
+    "storage_bucket": "project-chashmart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193360515095:android:50d023e84a5b419623cc52",
+        "android_client_info": {
+          "package_name": "com.example.projectchashmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193360515095-jflhclac5j7iq0633qqrpqd61kqm7ags.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb4qekeuElmY5a9wdOQ1W7sGHcgdoA-5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "193360515095-jflhclac5j7iq0633qqrpqd61kqm7ags.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "193360515095-eja7atnm0qd8gr1g6115u1vts2tbm076.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.projectchashmart.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
